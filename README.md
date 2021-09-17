@@ -1,2 +1,5 @@
-# INFORM DataLab
-Das INFORM DataLab umfasst Services und Lösungen für Data Management, Data Analytics, Data Science und Datenstrategie. Unternehmen können heutzutage nur erfolgreich sein, wenn sie datengetriebene, effiziente Entscheidungen treffen. Dazu bündelt INFORM im Team seines DataLab die Datenexpertise von Data Scientists, Softwareentwicklern und Consultants. Sie entwickeln individuell angepasste, innovative Lösungen rund um die Wertschöpfung von Daten. Egal, ob Unternehmen eine Strategie benötigen, um Ihre Datenqualität und -konsistenz langfristig zu maximieren, sie eine flexible Datenanalyse abgestimmt auf ihre Anforderungen durchführen wollen oder ob sie mit Hilfe von Artificial Intelligence neue Erkenntnisse aus ihren Daten ziehen wollen – das INFORM DataLab begleitet sie bei der digitalen Transformation.  
+# .github
+If your organization does not already have a public .github repository, create a public .github repository.
+In your organization's .github repository, create a README.md file in the profile folder.
+Commit the changes to the README.md file. The content of the README.md will appear on your organization's profile.
+Source: https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile
